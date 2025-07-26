@@ -1,2 +1,0 @@
-# patapist
-Rastreo de mascotas
